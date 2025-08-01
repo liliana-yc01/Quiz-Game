@@ -1,0 +1,8 @@
+Question 1: What does the '++' operator do in C?
+A) Adds 2
+B) Increments by 1
+C) Multiplies by 2
+D) Squares the value
+
+You have 10 seconds to think...
+Time left: 3 seconds  
